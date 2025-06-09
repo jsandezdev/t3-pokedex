@@ -13,6 +13,9 @@ A modern, responsive Pokédex built with the T3 Stack and the PokéAPI. This app
 - View detailed info, base stats, and evolutions
 - Designed to work seamlessly across desktop and mobile devices.
 
+![Screenshot 1](https://github.com/user-attachments/assets/99e67b42-fbde-400a-acdb-869158b950dd)
+![Screenshot 2](https://github.com/user-attachments/assets/5e8d890a-9d99-4035-bea3-2cdf9eb35b76)
+
 ## Table of contents <!-- omit in toc -->
 - [Install](#install)
 - [Environment Variables](#environment-variables)
