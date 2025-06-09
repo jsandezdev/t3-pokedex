@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to T3 Pokeapi 👋</h1>
+<h1 align="center">Welcome to T3 Pokedex 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,8 +6,8 @@
   </a>
 </p>
 
-A modern, responsive Pokédex built with the T3 Stack and the PokéAPI. This app allows you to:
-- Browse all Pokémon
+A modern, responsive Pokedex built with the T3 Stack and the PokeAPI. This app allows you to:
+- Browse all Pokemon
 - Filter by type or generation
 - Search by name
 - View detailed info, base stats, and evolutions
