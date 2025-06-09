@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@import "./fonts.css";
+
+@theme {
+  --font-sans:
+    var(--font-nunito), ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-pokemon: "PokemonClassic", "sans-serif";
+  --breakpoint-xs: 24rem;
+}
+
+@theme inline {
+  --color-background: var(--color-gray-100);
+  
+  --color-type-normal: #A8A77A;
+  --color-type-fighting: #C22E28;
+  --color-type-flying: #A98FF3;
+  --color-type-poison: #A33EA1;
+  --color-type-ground: #E2BF65;
+  --color-type-rock: #B6A136;
+  --color-type-bug: #A6B91A;
+  --color-type-ghost: #735797;
+  --color-type-steel: #B7B7CE;
+  --color-type-fire: #EE8130;
+  --color-type-water: #6390F0;
+  --color-type-grass: #7AC74C;
+  --color-type-electric: #F7D02C;
+  --color-type-psychic: #F95587;
+  --color-type-ice: #96D9D6;
+  --color-type-dragon: #6F35FC;
+  --color-type-dark: #705746;
+  --color-type-fairy: #D685AD;
+  --color-type-stellar: #4467C7;
+  --color-type-unknown: #68A090;
+  --color-type-shadow: #493963;
+
+  --color-type-normal-light: #D8DBBE;
+  --color-type-fighting-light: #E87A74;
+  --color-type-flying-light: #D3C7F9;
+  --color-type-poison-light: #D29BD5;
+  --color-type-ground-light: #F1DCAC;
+  --color-type-rock-light: #DCD189;
+  --color-type-bug-light: #D7E59D;
+  --color-type-ghost-light: #C0B2D4;
+  --color-type-steel-light: #E1E1F0;
+  --color-type-fire-light: #F7B77D;
+  --color-type-water-light: #9BB8F5;
+  --color-type-grass-light: #B5E7A4;
+  --color-type-electric-light: #FCE87F;
+  --color-type-psychic-light: #FAA3BD;
+  --color-type-ice-light: #CFF1EF;
+  --color-type-dragon-light: #B49CFA;
+  --color-type-dark-light: #A19287;
+  --color-type-fairy-light: #F1C9DB;
+  --color-type-stellar-light: #92A9E2;
+  --color-type-unknown-light: #9FCAC2;
+  --color-type-shadow-light: #9B8CAB;
+}
